@@ -9,7 +9,7 @@
     </head>
     <link rel='stylesheet' type='text/css' href='css/template.css'/>
     <body>
-      <div class='form-style' style='position:absolute; top: 5%; left:35%;'>
+      <div class='login-register-form'>
 	<form method='post'>
           <table>
 	    <h1>Login Template</h1>
@@ -25,7 +25,7 @@
 	      </td>
 	     </tr>
 	     <tr>
-		<td><input type='submit' class='form-style-submit' value='Submit'/></td>	
+		<td><input type='submit' class='login-register-submit' value='Submit'/></td>	
 	     </tr>       
 	  </table>
 	</form>
