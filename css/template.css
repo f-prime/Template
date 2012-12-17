@@ -37,6 +37,12 @@ width: 70%;
 
 }
 
+.form-style-submit:hover {
+
+background-color:#0055CC
+
+}
+
 .top-bar {
 padding: 0px;
 margin: 0px;
@@ -87,4 +93,20 @@ h1 {
 font-weight: bold;
 
 
+}
+
+.important-link {
+
+background-color: #484848;
+margin: 5px;
+padding: 10px;
+border:1px solid;
+border-color: #282828 ;
+border-radius: 5px;
+}
+
+.important-link:hover {
+
+background-color: #282828 ;
+color: white;
 }
