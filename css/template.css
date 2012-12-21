@@ -50,6 +50,7 @@ margin: 0px;
 height: 6%;
 width: 100%;
 position: fixed;
+z-index:5;
 left:0;
 top:0;
 background-color:rgb(27, 27, 27);
