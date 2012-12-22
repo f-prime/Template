@@ -18,6 +18,18 @@ border-color: #808080;
 border-radius: 5px;
 }
 
+.code {
+
+white-space: pre;
+margin:0%;
+padding:2%;
+background-color: #E8E8E8 ;
+color: #000000;
+width:25%;
+border: 1px dashed;
+font-family: Monospace;
+}
+
 input {
 color: #808080 ;
 margin:2%;
