@@ -1,0 +1,11 @@
+<link rel='stylesheet' href='../css/template.css'/>
+<head><h1>Code class example</h1></head>
+<div class='code'>
+import socket
+s = socket.socket()
+s.connect(('google.com', 80))
+s.send("GET / \r\n")
+while True:
+   if s.recv(1024): 
+     print s.recv(1024)
+</div>
